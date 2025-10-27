@@ -5,8 +5,9 @@
 ## 📋 项目简介
 
 本项目实现了一个用于脑电（EEG）疲劳检测的深度学习模型——AEA-ICNN（Electrode Attention ICNN）。能够自动学习不同电极对疲劳检测的重要性，实现高精度的疲劳状态分类。
-
+<img width="7344" height="2813" alt="Fig 2" src="https://github.com/user-attachments/assets/2ede22b6-12c4-4b2a-a2f2-6691553b516a" />
 ### 核心特点
+
 
 - **电极注意力机制**：自动学习30个电极通道的重要性权重
 - **深度可分离卷积**：高效提取时间-空间特征
