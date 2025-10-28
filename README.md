@@ -1,4 +1,4 @@
-# AEA-An-Auditory-Inspired-Electrode-Attention-for-Cross-Subject-EEG-Drowsiness-Recognition
+# AEA：Listening to the Brain: An Auditory-Inspired Electrode Attention for Cross-Subject EEG Drowsiness Recognition
 
 # AEA-ICNN: 基于电极注意力机制的脑电疲劳检测模型
 
